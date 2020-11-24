@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**shubh-hub/shubh-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am Shubham Raj, a Data Science|ML|AI enthusisast.
 
 - 🔭 I’m currently working on ML projects.
@@ -27,5 +23,10 @@ Knowledge about:
 * PCA
 * Recommendation System
 * NLP
+
+
+
+<!--
+**shubh-hub/shubh-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
   
